@@ -6,6 +6,7 @@
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Rahulkumar0909)
 [![Linkedin Badge](https://img.shields.io/badge/-Rahul-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2/)](https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2//) 
+![Gmail Badge](https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2//)
 
 </div>  
 
