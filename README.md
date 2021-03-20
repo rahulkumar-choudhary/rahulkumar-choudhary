@@ -18,8 +18,8 @@
 
 ## About me
 
-```
-Love to explore many new technologies and integrate them.
+```py
+print("Love to explore many new technologies and integrate them.")
 ```
 
 ## Skils 
