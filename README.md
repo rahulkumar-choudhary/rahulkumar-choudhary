@@ -44,15 +44,12 @@ Love to explore many new technologies and integrate them.
 
 ## overview
     
-<a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rahulkuamr0909&show_icons=true&include_all_commits=true&theme=radical" alt="Rahul's github stats" />
-</a>
 
-![Rahulkumar's github stats](https://github-readme-stats.vercel.app/api?username=Rahulkumar0909&hide=issues&show_icons=true&theme=highcontrast)
+![Rahulkumar's github stats](https://github-readme-stats.vercel.app/api?username=Rahulkumar0909&hide=issues&show_icons=true&theme=chartreuse-dark)
 
 <a href="https://github.com/Rahulkumar0909/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rahulkumar0909&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rahulkumar0909&layout=compact&theme=chartreuse-dark" />
 </a>
 
 
