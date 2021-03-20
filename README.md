@@ -1,7 +1,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="70px"> print("Hi coders!"), I am Rahul
 
 <p align="center">
-  <img src="https://github.com/Rahulkumar0909/Rahulkumar0909/blob/master/gif/code_at_night.gif?raw=true" width="600" height="250" />
+  <img src="https://github.com/Rahulkumar0909/Rahulkumar0909/blob/master/gif/code_at_night.gif?raw=true" width="600" height="300" />
 </p>
 
 ## Connect me 
@@ -9,10 +9,8 @@
 <div align="center">
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Rahulkumar0909)
-
-![Linkedin Badge](https://img.shields.io/badge/-Rahulkumar_Choudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2/)]
+[![Linkedin Badge](https://img.shields.io/badge/-Rahulkumar_Choudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2/)](https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2/)
 [![Twitter Badge](https://img.shields.io/badge/-@Rahulkumar29420-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rahulkumar29420)](https://twitter.com/Rahulkumar29420)
-
 [![Gmail Badge](https://img.shields.io/badge/-rahulchoudhary5768@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulchoudhary5768@gmail.com)](mailto:rahulchoudhary@gmail.com)
 </div>  
 
