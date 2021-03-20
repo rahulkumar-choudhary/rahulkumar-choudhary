@@ -6,17 +6,10 @@
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Rahulkumar0909)
 [![Linkedin Badge](https://img.shields.io/badge/-Rahul-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2/)](https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2//) 
-![Gmail Badge](https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2//)
+[![Gmail Badge](https://img.shields.io/badge/-rahulchoudhary5768@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhaulchoudhary5768@gmail.com)
 
 </div>  
 
-<a href="mailto:rahulchoudhary5768@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"   />
-</a>
-
-<a href="https://rahulchoudhary5768.medium.com//">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"   />
-</a>
 
 
 ## About me
