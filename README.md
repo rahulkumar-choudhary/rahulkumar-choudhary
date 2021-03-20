@@ -19,7 +19,9 @@
 ## About me
 
 ```py
-print("Love to explore many new technologies and integrate them.")
+def github()
+    i = print("Love to explore many new technologies and integrate them.")
+    return i
 ```
 
 ## Skils 
