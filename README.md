@@ -1,27 +1,23 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="70px"> print("Hi coders!"), I am Rahul
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="70px"> print("Hi coders!"), I am Rahul
 
-### Connect me 
+## Connect me 
 
 <div align="center">
  
- 
- 
- 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Rahulkumar0909)
 [![Linkedin Badge](https://img.shields.io/badge/-Rahul-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2/)](https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2//) 
-
-
-
 
 </div>  
 
 </br>
 
-### About me
+## About me
 
+```
+Love to explore many new technologies and integrate them.
+```
 
-
-### Skils I have
+## Skils 
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -50,11 +46,11 @@
 ## overview
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amit17133129&show_icons=true&include_all_commits=true&theme=radical" alt="Amit's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rahulkuamr0909&show_icons=true&include_all_commits=true&theme=radical" alt="Rahul's github stats" />
 </a>
-<a href="https://github.com/amit17133129/github-readme-stats">
+<a href="https://github.com/Rahulkumar0909/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amit17133129&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rahulkumar0909&layout=compact&theme=radical" />
 </a>
 
 
