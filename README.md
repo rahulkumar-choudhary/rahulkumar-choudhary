@@ -12,6 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rahulkumar_Choudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2/)](https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2/)
 [![Twitter Badge](https://img.shields.io/badge/-@Rahulkumar29420-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rahulkumar29420)](https://twitter.com/Rahulkumar29420)
 [![Gmail Badge](https://img.shields.io/badge/-rahulchoudhary5768@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulchoudhary5768@gmail.com)](mailto:rahulchoudhary@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://rahulchoudhary5768.medium.com/)](https://rahulchoudhary5768.medium.com/)
 </div>  
 
 
