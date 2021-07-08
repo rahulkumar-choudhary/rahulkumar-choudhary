@@ -20,7 +20,7 @@
 ## About me
 
 ```py
-def github()
+def github():
     i = print("Love to explore many new technologies and integrate them.")
     return i
 ```
