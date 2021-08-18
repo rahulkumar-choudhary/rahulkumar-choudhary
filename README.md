@@ -1,7 +1,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="70px"> print("Hi coders!"), I am Rahul
 
 <p align="center">
-  <img src="https://github.com/Rahulkumar0909/Rahulkumar0909/blob/master/gif/code_at_night.gif?raw=true" width="400" height="200" />
+  <img src="https://github.com/Rahulkumar0909/Rahulkumar0909/blob/master/gif/code_at_night.gif?raw=true" width="450" height="270" />
 </p>
 
 ## Connect me 
