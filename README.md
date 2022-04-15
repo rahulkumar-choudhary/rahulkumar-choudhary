@@ -21,8 +21,7 @@
 
 ```py
 def github():
-    i = print("Love to explore many new technologies and integrate them.")
-    return i
+    return "Love to explore many new technologies and integrate them."
 ```
 
 ## Skils 
