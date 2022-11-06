@@ -2,13 +2,9 @@
 
 I am an IT Enthusiast & updated with the latest DevOps Technologies, who loves to explore all the emerging technologies in the field of MLOps-DevOps, Cloud Computing, Big data, Linux, and many more.
 
-* How I started?
-First and foremost, I love writing code. Ever since writing my first program in Python and manipulating it to produce the desired output, I have been obsessed with the idea of using software to solve practical problems.
+* How I started? First and foremost, I love writing code. Ever since writing my first program in Python and manipulating it to produce the desired output, I have been obsessed with the idea of using software to solve practical problems.
 
-My technical journey started with the basics of Linux system admin skills and troubleshooting problems. Then jumped to DevOps and I loved its approach of automation by reducing manual inputs, through which my curiosity grew more and then started to learn new and emerging technologies.
-
-My specialties include quick learning new skills, programming languages & problem-solving. I am good at team building and managing projects.
-
+My technical journey started with the basics of Linux system admin skills and troubleshooting problems. Then jumped to DevOps and I loved its approach of automation by reducing manual inputs, through which my curiosity grew more and then started to learn new and emerging technologies. My specialties include quick learning new skills, programming languages & problem-solving. I am good at team building and managing projects.
 🚀 My Belief 
 _I believe in the power of programming to transform and improve the lives of people around the world._
 
