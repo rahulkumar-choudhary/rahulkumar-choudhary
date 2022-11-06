@@ -1,71 +1,73 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="70px"> print("Hi coders!"), I am Rahul
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> , I'm [Rahul!](https://bio.link/linkrahulkumar) Great to see you here! 
+
+I am an IT Enthusiast & updated with the latest DevOps Technologies, who loves to explore all the emerging technologies in the field of MLOps-DevOps, Cloud Computing, Big data, Linux, and many more.
+
+* How I started?
+First and foremost, I love writing code. Ever since writing my first program in Python and manipulating it to produce the desired output, I have been obsessed with the idea of using software to solve practical problems.
+
+My technical journey started with the basics of Linux system admin skills and troubleshooting problems. Then jumped to DevOps and I loved its approach of automation by reducing manual inputs, through which my curiosity grew more and then started to learn new and emerging technologies.
+
+My specialties include quick learning new skills, programming languages & problem-solving. I am good at team building and managing projects.
+
+🚀 My Belief 
+_I believe in the power of programming to transform and improve the lives of people around the world._
 
 <p align="center">
-  <img src="https://github.com/Rahulkumar0909/Rahulkumar0909/blob/master/gif/code_at_night.gif?raw=true" width="450" height="265" />
+  <img src="https://github.com/rahulkumar-choudhary/rahulkumar-choudhary/blob/master/src/code_at_night.gif?raw=true" width="450" height="260" />
 </p>
 
-## Connect me 
+## [Connect with me 💬](https://bio.link/linkrahulkumar) 
 
 <div align="center">
  
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Rahulkumar0909)
-[![Linkedin Badge](https://img.shields.io/badge/-Rahulkumar_Choudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2/)](https://www.linkedin.com/in/rahulkumar-choudhary-b662761a2/)
-[![Twitter Badge](https://img.shields.io/badge/-@Rahulkumar29420-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rahulkumar29420)](https://twitter.com/Rahulkumar29420)
-[![Gmail Badge](https://img.shields.io/badge/-rahulchoudhary5768@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulchoudhary5768@gmail.com)](mailto:rahulchoudhary@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://rahulchoudhary5768.medium.com/)](https://rahulchoudhary5768.medium.com/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rahulkumar-choudhary)
+[![Linkedin Badge](https://img.shields.io/badge/-Rahulkumar_Choudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulkumar-choudhary/)](https://www.linkedin.com/in/rahulkumar-choudhary/)
+[![Twitter Badge](https://img.shields.io/badge/-@rahulkumarstwt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rahulkumarstwt)](https://twitter.com/rahulkumarstwt)
+[![Gmail Badge](https://img.shields.io/badge/-rahulchoudhary5768@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulchoudhary5768@gmail.com)](mailto:rahulchoudhary5768@gmail.com)
+<!-- [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://rahulchoudhary5768.medium.com/)](https://rahulchoudhary5768.medium.com/) -->
 </div>  
 
-
-
-## About me
-
-```py
-def github():
-    return "Love to explore many new technologies and integrate them."
-```
+<img src="https://activity-graph.herokuapp.com/graph?username=rahulkumar-choudhary&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ## Skils 
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-[![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
- ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
- ![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
- ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
- ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
- ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
- [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
- [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
- [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
- [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
- [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
+[![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
+[![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 
-## Overview
+## 📈 Stats
     
+<!--
+![Rahulkumar's github stats](https://github-readme-stats.vercel.app/api?username=rahulkumar-choudhary&hide=issues&show_icons=true&theme=chartreuse-dark)
 
-![Rahulkumar's github stats](https://github-readme-stats.vercel.app/api?username=Rahulkumar0909&hide=issues&show_icons=true&theme=chartreuse-dark)
-
-<a href="https://github.com/Rahulkumar0909/github-readme-stats">
+<a href="https://github.com/rahulkumar-choudhary/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rahulkumar0909&layout=compact&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rahulkumar-choudhary&layout=compact&theme=chartreuse-dark" />
 </a>
+-->
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahulkumar-choudhary&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar-choudhary&theme=tokyonight" />
+</p>
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulkumar-choudhary.rahulkumar-choudhary)
