@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> , I'm [Rahul!](https://bio.link/linkrahulkumar) Great to see you here! 
 
-I am an IT Enthusiast & updated with the latest DevOps Technologies, who loves to explore all the emerging technologies in the field of MLOps-DevOps, Cloud Computing, Big data, Linux, and many more.
+I am an IT Enthusiast & updated with the latest DevOps Technologies, who loves to explore all the emerging technologies in the field of MLOps, DevOps, Cloud Computing, Big data, Linux, and many more.
 
 * How I started? First and foremost, I love writing code. Ever since writing my first program in Python and manipulating it to produce the desired output, I have been obsessed with the idea of using software to solve practical problems.
 
@@ -28,7 +28,7 @@ _I believe in the power of programming to transform and improve the lives of peo
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rahulkumar-choudhary&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-## Skils 
+## Skills 
 
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
