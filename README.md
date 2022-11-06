@@ -9,6 +9,7 @@ I love DevOps approach of automation by reducing manual input. My specialties in
 ## [Connect with me 💬](https://bio.link/linkrahulkumar) 
 
 <div align="center">
+
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rahulkumar-choudhary)
 [![Linkedin Badge](https://img.shields.io/badge/-Rahulkumar_Choudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulkumar-choudhary/)](https://www.linkedin.com/in/rahulkumar-choudhary/)
 [![Twitter Badge](https://img.shields.io/badge/-@rahulkumarstwt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rahulkumarstwt)](https://twitter.com/rahulkumarstwt)
