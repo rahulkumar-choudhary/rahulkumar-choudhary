@@ -7,7 +7,6 @@ I am an IT Enthusiast & updated with the latest DevOps Technologies, who loves t
 My technical journey started with the basics of Linux system admin skills and troubleshooting problems. Then jumped to DevOps and I loved its approach of automation by reducing manual inputs, through which my curiosity grew more and then started to learn new and emerging technologies. My specialties include quick learning new skills, programming languages & problem-solving. I am good at team building and managing projects.
 
 🚀 My Belief 
-
 _I believe in the power of programming to transform and improve the lives of people around the world._
 
 <p align="center">
