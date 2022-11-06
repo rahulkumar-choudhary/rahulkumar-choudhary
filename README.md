@@ -1,29 +1,19 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> , I'm [Rahul!](https://bio.link/linkrahulkumar) Great to see you here! 
 
-I am an IT Enthusiast & updated with the latest DevOps Technologies, who loves to explore all the emerging technologies in the field of MLOps, DevOps, Cloud Computing, Big data, Linux, and many more.
+I'm IT Enthusiast who loves to explore all the emerging technologies in MLOps, DevOps, Cloud Computing, Big Data, Linux ...
 
-* How I started? First and foremost, I love writing code. Ever since writing my first program in Python and manipulating it to produce the desired output, I have been obsessed with the idea of using software to solve practical problems.
+I love DevOps approach of automation by reducing manual input. My specialties include quick learning new skills, programming languages & problem-solving. I am good at team building and managing projects.
 
-My technical journey started with the basics of Linux system admin skills and troubleshooting problems. Then jumped to DevOps and I loved its approach of automation by reducing manual inputs, through which my curiosity grew more and then started to learn new and emerging technologies. My specialties include quick learning new skills, programming languages & problem-solving. I am good at team building and managing projects.
-
-🚀 My Belief 
-_I believe in the power of programming to transform and improve the lives of people around the world._
-
-<!--
-<p align="center">
-  <img src="https://github.com/rahulkumar-choudhary/rahulkumar-choudhary/blob/master/gif/code_at_night.gif?raw=true" width="450" height="260" />
-</p>
--->
+🚀 _I believe in the power of programming to transform and improve the lives of people around the world._
 
 ## [Connect with me 💬](https://bio.link/linkrahulkumar) 
 
 <div align="center">
- 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rahulkumar-choudhary)
 [![Linkedin Badge](https://img.shields.io/badge/-Rahulkumar_Choudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulkumar-choudhary/)](https://www.linkedin.com/in/rahulkumar-choudhary/)
 [![Twitter Badge](https://img.shields.io/badge/-@rahulkumarstwt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rahulkumarstwt)](https://twitter.com/rahulkumarstwt)
 [![Gmail Badge](https://img.shields.io/badge/-rahulchoudhary5768@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulchoudhary5768@gmail.com)](mailto:rahulchoudhary5768@gmail.com)
-<!-- [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://rahulchoudhary5768.medium.com/)](https://rahulchoudhary5768.medium.com/) -->
+<!-- [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://rahulchoudhary5768.medium.com/)](https://www.medium.com/) -->
 </div>  
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rahulkumar-choudhary&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
@@ -53,13 +43,11 @@ _I believe in the power of programming to transform and improve the lives of peo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## 📈 Stats
-    
+## 📈 Stats 
 <!--
 ![Rahulkumar's github stats](https://github-readme-stats.vercel.app/api?username=rahulkumar-choudhary&hide=issues&show_icons=true&theme=chartreuse-dark)
 
 <a href="https://github.com/rahulkumar-choudhary/github-readme-stats">
- 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rahulkumar-choudhary&layout=compact&theme=chartreuse-dark" />
 </a>
 -->
