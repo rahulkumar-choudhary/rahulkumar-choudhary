@@ -9,9 +9,11 @@ My technical journey started with the basics of Linux system admin skills and tr
 🚀 My Belief 
 _I believe in the power of programming to transform and improve the lives of people around the world._
 
+<!--
 <p align="center">
   <img src="https://github.com/rahulkumar-choudhary/rahulkumar-choudhary/blob/master/gif/code_at_night.gif?raw=true" width="450" height="260" />
 </p>
+-->
 
 ## [Connect with me 💬](https://bio.link/linkrahulkumar) 
 
