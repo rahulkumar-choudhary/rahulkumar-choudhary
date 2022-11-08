@@ -14,7 +14,6 @@ I love DevOps approach of automation by reducing manual input. My specialties in
 [![Linkedin Badge](https://img.shields.io/badge/-Rahulkumar_Choudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulkumar-choudhary/)](https://www.linkedin.com/in/rahulkumar-choudhary/)
 [![Twitter Badge](https://img.shields.io/badge/-@rahulkumarstwt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rahulkumarstwt)](https://twitter.com/rahulkumarstwt)
 [![Gmail Badge](https://img.shields.io/badge/-rahulchoudhary5768@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulchoudhary5768@gmail.com)](mailto:rahulchoudhary5768@gmail.com)
-<!-- [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://rahulchoudhary5768.medium.com/)](https://www.medium.com/) -->
 </div>  
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rahulkumar-choudhary&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
@@ -45,13 +44,7 @@ I love DevOps approach of automation by reducing manual input. My specialties in
 
 
 ## 📈 Stats 
-<!--
-![Rahulkumar's github stats](https://github-readme-stats.vercel.app/api?username=rahulkumar-choudhary&hide=issues&show_icons=true&theme=chartreuse-dark)
 
-<a href="https://github.com/rahulkumar-choudhary/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rahulkumar-choudhary&layout=compact&theme=chartreuse-dark" />
-</a>
--->
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahulkumar-choudhary&show_icons=true&theme=tokyonight" />
