@@ -16,7 +16,9 @@ I love DevOps approach of automation by reducing manual input. My specialties in
 [![Gmail Badge](https://img.shields.io/badge/-rahulchoudhary5768@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulchoudhary5768@gmail.com)](mailto:rahulchoudhary5768@gmail.com)
 </div>  
 
+<!-- 
 <img src="https://activity-graph.herokuapp.com/graph?username=rahulkumar-choudhary&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+-->
 
 ## Skills 
 
